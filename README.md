@@ -13,7 +13,7 @@ Take webcam shots from target just sending a malicious link
 
 ```
 git clone https://github.com/TheSploit/Hack-Cam_Phone
-cd saycheese
+cd Hack-Cam_Phone
 bash saycheese.sh
 ```
 
